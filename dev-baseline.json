@@ -1,13 +1,13 @@
 [
   {
   "tag": "",
-  "commit": "7ee34efe402cb67a6f3ec8423fb993978725f5b3",
+  "commit": "35468565de55c3f55a64d44d2ac3653617685b65",
   "name": "TestB",
   "branch": "main"
  },
   {
   "tag": "",
-  "commit": "452227ae8214052d98864a0b6f7295879cd46ebe",
+  "commit": "73066c9a6c04753bcfd6768035e9bb075759fadf",
   "name": "TestC",
   "branch": "main"
  }
