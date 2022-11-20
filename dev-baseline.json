@@ -1,0 +1,36 @@
+[
+  {
+  "name": "TestB",
+  "commit": "",
+  "tag": "",
+  "branch": "main",
+  "action": "install",
+  "checkoutInfo":   {
+   "GIT_BRANCH": "origin/main",
+   "GIT_COMMIT": "c838b09c322536c5ea652847c2cd6cba9f7c4583",
+   "GIT_PREVIOUS_COMMIT": "c838b09c322536c5ea652847c2cd6cba9f7c4583",
+   "GIT_PREVIOUS_SUCCESSFUL_COMMIT": "c838b09c322536c5ea652847c2cd6cba9f7c4583",
+   "GIT_URL": "https://github.com/saurabh-aggarwal-nbs/TestB.git/"
+  },
+  "deployeedOn": "11/20/2022 14:11:40",
+  "trackDeployment": true,
+  "deployed": true
+ },
+  {
+  "name": "TestC",
+  "commit": "",
+  "tag": "",
+  "branch": "main",
+  "action": "install",
+  "checkoutInfo":   {
+   "GIT_BRANCH": "origin/main",
+   "GIT_COMMIT": "ad3842129d1699b0f067747d18a715951fce0613",
+   "GIT_PREVIOUS_COMMIT": "ad3842129d1699b0f067747d18a715951fce0613",
+   "GIT_PREVIOUS_SUCCESSFUL_COMMIT": "ad3842129d1699b0f067747d18a715951fce0613",
+   "GIT_URL": "https://github.com/saurabh-aggarwal-nbs/TestC.git/"
+  },
+  "deployeedOn": "11/20/2022 14:11:44",
+  "trackDeployment": true,
+  "deployed": true
+ }
+]
